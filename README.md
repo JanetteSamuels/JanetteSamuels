@@ -1,8 +1,7 @@
 # Hi, I'm Janette 👋
 
-🎓 Junior Data Engineer | 🧠 Law & Sociology Grad → Queen of the Cloud | 🌍 London-based  
+🎓 Junior Data Engineer |🛠 Python, SQL, AWS | 🧠 Law & Sociology Grad → Queen of the Cloud | 🌍 London-based  
 
-Python | SQL | AWS | Terraform | FastAPI | PostgreSQL
 ---
 
 I'm a junior data engineer passionate about turning messy, fragmented data into structured systems that support better thinking, decision-making, and innovation. I bring curiosity, clarity, and care to everything I build — from ETL pipelines to cloud automation.
