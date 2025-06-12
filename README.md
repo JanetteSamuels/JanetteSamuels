@@ -4,9 +4,9 @@
 
 ---
 
-I'm a junior data engineer passionate about turning messy, fragmented data into structured systems that support better thinking, decision-making, and innovation. I bring curiosity, clarity, and care to everything I build — from ETL pipelines to cloud automation.
+I'm a junior data engineer passionate about turning messy, fragmented data into structured systems that support better thinking, decision-making, and innovation. I bring curiosity, clarity, and care to everything I build; from ETL pipelines to cloud automation.
 
-My background in law and sociology sharpened how I approach structure, logic, and systems. Now, I apply those skills through code — building tools that transform raw data into something meaningful, testable, and scalable.
+My background in law and sociology sharpened how I approach structure, logic, and systems. Now, I apply those skills through code; building tools that transform raw data into something meaningful, testable, and scalable.
 
 ---
 ### 🌐 Recent Project: Royal Blue ETL
