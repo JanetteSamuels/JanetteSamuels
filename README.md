@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Janette 👋
 
-<!--
-**JanetteSamuels/JanetteSamuels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior Data Engineer | 🧠 Law & Sociology Grad → Queen of the Cloud | 🌍 London-based  |🔧 Python | SQL | AWS | Terraform | FastAPI | PostgreSQL
+---
 
-Here are some ideas to get you started:
+I'm a junior data engineer passionate about turning messy, fragmented data into structured systems that support better thinking, decision-making, and innovation. I bring curiosity, clarity, and care to everything I build — from ETL pipelines to cloud automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background in law and sociology sharpened how I approach structure, logic, and systems. Now, I apply those skills through code — building tools that transform raw data into something meaningful, testable, and scalable.
+
+---
+### 🌐 Recent Project: Royal Blue ETL
+- 📥 Ingests from PostgreSQL
+- 🧪 Tests with `pytest`, `moto`, `bandit`
+- ☁️ Deploys with Terraform (AWS Lambda, S3, CloudWatch)
+- ⚙️ Built with Python, FastAPI, Pandas
+→ [View on GitHub](https://github.com/JanetteSamuels/royal-blue-etl)
+
+---
+
+### 💻 Tech I Use
+
+**Languages & Tools**: Python, SQL, Bash, Git, Regex  
+**Cloud**: AWS (Lambda, S3, RDS, IAM), Terraform  
+**Databases**: PostgreSQL  
+**Frameworks**: FastAPI  
+**Testing**: Pytest, Moto, Ruff, Bandit  
+**Automation**: Makefile, uv, GitHub Actions  
+**Monitoring**: CloudWatch
+
+---
+
+📫 **Let’s Connect!**  
+💼 [LinkedIn](https://linkedin.com/in/janettesamuels)  
+🌱 Always learning — especially around data architecture, analytics engineering, and DevOps!
+
