@@ -30,6 +30,6 @@ My background in law and sociology sharpened how I approach structure, logic, an
 ---
 
 📫 **Let’s Connect!**  
-💼 [LinkedIn](https://linkedin.com/in/janettesamuels)  
+💼 [LinkedIn](http://www.linkedin.com/in/janette-samuels)
 🌱 Always learning — especially around data architecture, analytics engineering, and DevOps!
 
