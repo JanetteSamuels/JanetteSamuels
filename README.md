@@ -1,4 +1,4 @@
-# Hi, I'm Janette 👋
+# Hi, I'm Janette  👋🏿
 
 🎓 Junior Data Engineer |🛠 Python, SQL, AWS | 🧠 Law & Sociology Grad → Queen of the Cloud | 🌍 London
 
