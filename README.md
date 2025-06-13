@@ -14,8 +14,7 @@ My background in law and sociology sharpened how I approach structure, logic, an
 - 🧪 Tests with `pytest`, `moto`, `bandit`
 - ☁️ Deploys with Terraform (AWS Lambda, S3, CloudWatch)
 - ⚙️ Built with Python, FastAPI, Pandas
-→ [View on GitHub](https://github.com/JanetteSamuels/royal-blue-etl)
-
+→ [View on GitHub](https://github.com/JanetteSamuels/royal-blue))
 ---
 
 ### 💻 Tech I Use
